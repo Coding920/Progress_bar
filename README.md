@@ -1,4 +1,5 @@
-# Loading progress bar made for easy intergration into your command line project!
+# Loading progress bar
+## Made for easy intergration into your python command line project!
 
 ### Usage
 
